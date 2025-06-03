@@ -1,5 +1,5 @@
 ## Olá!
-<p> Sou estudande de programação há 1 ano</p>
+<p> Sou estudande de programação há 3 ano</p>
 <p> Estudo mais a parte backend na linguagem python</p>
 
 ---
@@ -12,7 +12,7 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,figma,git,docker,postgres,c&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,git,postgres,c&theme=dark)](https://skillicons.dev)
  
 ---
 
