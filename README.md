@@ -12,7 +12,7 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,git,postgres,c&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,git,postgres,&theme=dark)](https://skillicons.dev)
  
 ---
 
