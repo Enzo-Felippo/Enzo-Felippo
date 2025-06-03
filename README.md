@@ -1,6 +1,7 @@
 ## Olá!
-<p> Sou estudande de programação há 3 ano</p>
-<p> Estudo mais a parte backend na linguagem python</p>
+<p> Sou estudande de programação há 3 anos</p>
+<p> Estou no 3° semestre da faculdade de Ciência da Computação</p>
+<p> Estudo mais backend na linguagem C#</p>
 
 ---
 
@@ -17,6 +18,6 @@
 ---
 
 <div>
-  <a href = "mailto:enzofelippo4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:enzo.felippo.lopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/enzo-felippo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
