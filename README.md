@@ -6,7 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=00bfff&vCenter=true&random=false&width=435&lines=Sobre+Mim)](https://git.io/typing-svg)
 
-<img align="right" alt="" width="450" height="250px" src="./src/city.gif">
 <div align"left">
     <img alt="Static Badge" src="https://img.shields.io/badge/Ci%C3%AAncia_da_Computa%C3%A7%C3%A3o-black?style=for-the-badge&logo=gitbook&logoColor=black&logoSize=auto&labelColor=%2300bfff">
     <img alt="Static Badge" src="https://img.shields.io/badge/3%C2%BA_Semestre-black?style=for-the-badge&logo=gitbook&logoColor=black&logoSize=auto&labelColor=%2300bfff">
