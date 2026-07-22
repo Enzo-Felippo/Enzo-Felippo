@@ -24,7 +24,7 @@
     <!-- Curso -->
     <img alt="Ciência da Computação" src="https://img.shields.io/badge/Ci%C3%AAncia_da_Computa%C3%A7%C3%A3o-black?style=for-the-badge&logo=gitbook&logoColor=black&labelColor=%2300bfff">
     <!-- Semestre -->
-    <img alt="5º Semestre" src="https://img.shields.io/badge/3%C2%BA_Semestre-black?style=for-the-badge&logo=gitbook&logoColor=black&labelColor=%2300bfff">
+    <img alt="5º Semestre" src="https://img.shields.io/badge/5%C2%BA_Semestre-black?style=for-the-badge&logo=gitbook&logoColor=black&labelColor=%2300bfff">
 </div>
 
 <!-- ========================= -->
