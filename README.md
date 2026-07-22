@@ -71,11 +71,10 @@
     <a href="https://github.com/Enzo-Felippo">
         <img height="145em" src="https://streak-stats.demolab.com?user=Enzo-Felippo&theme=dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=500&card_height=200"/>
     </a>
-    
     <!-- Linguagens mais utilizadas -->
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Felippo&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
+    <!--<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Felippo&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>-->
     <!-- Estatísticas gerais -->
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Enzo-Felippo&hide=contribs&locale=pt-br&hide_rank=true&theme=dark"/>
+    <!--<img height="145em" src="https://github-readme-stats.vercel.app/api?username=Enzo-Felippo&hide=contribs&locale=pt-br&hide_rank=true&theme=dark"/>-->
 </div>
 
 <!-- ========================= -->
