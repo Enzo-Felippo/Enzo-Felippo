@@ -39,7 +39,7 @@
 <!-- ========================= -->
 <!-- Seção de conhecimentos -->
 <!-- ========================= -->
-## 📖 Conhecimentos
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&width=435&lines=%F0%9F%93%96+Conhecimentos)](https://git.io/typing-svg)
 
 <!-- Ícones das tecnologias -->
 <img height="35em" src="https://skillicons.dev/icons?i=cs,html,css,js,git,postgres,python&theme=dark"/>
@@ -47,7 +47,7 @@
 <!-- ========================= -->
 <!-- Seção de contato -->
 <!-- ========================= -->
-## 📱 Contato
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&width=435&lines=%F0%9F%93%B1+Contatos)](https://git.io/typing-svg)
 
 <div>
     <!-- Botão do Gmail -->
@@ -72,9 +72,9 @@
         <img height="145em" src="https://streak-stats.demolab.com?user=Enzo-Felippo&theme=dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=500&card_height=200"/>
     </a>
     <!-- Linguagens mais utilizadas -->
-    <!--<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Felippo&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>-->
+    <img height="145em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Enzo-Felippo&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
     <!-- Estatísticas gerais -->
-    <!--<img height="145em" src="https://github-readme-stats.vercel.app/api?username=Enzo-Felippo&hide=contribs&locale=pt-br&hide_rank=true&theme=dark"/>-->
+    <img height="145em" src="https://github-stats-extended.vercel.app/api?username=Enzo-Felippo&hide=contribs&locale=pt-br&hide_rank=true&theme=dark"/>
 </div>
 
 <!-- ========================= -->
