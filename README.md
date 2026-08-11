@@ -71,9 +71,9 @@
 <div align="center">
     <!-- Sequência de contribuições -->
     <!-- Linguagens mais utilizadas -->
-    <img height="145em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Enzo-Felippo&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
+    <img height="145em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Enzo-Felippo&layout=compact&langs_count=7&theme=chartreuse-dark&locale=pt-br"/>
     <!-- Estatísticas gerais -->
-    <img height="145em" src="https://github-stats-extended.vercel.app/api?username=Enzo-Felippo&hide=contribs&locale=pt-br&hide_rank=true&theme=dark"/>
+    <img height="145em" src="https://github-stats-extended.vercel.app/api?username=Enzo-Felippo&hide_rank=true&locale=pt-br&show_icons=true&include_all_commits=true&theme=chartreuse-dark"/>
 </div>
 </div>
 
