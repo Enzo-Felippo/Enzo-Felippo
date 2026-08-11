@@ -67,7 +67,7 @@
 <!-- Estatísticas do GitHub -->
 <!-- ========================= -->
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Enzo-Felippo&theme=dark&hide_border=true&border_radius=20&locale=pt_BR&timezone=-4&short_numbers=true&exclude_days=Sun%2CSat&card_width=450&card_height=175&background=23%2C00526E%2C00573C&dates=FFFFFF&sideNums=FFC200&sideLabels=FFC200" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Enzo-Felippo&theme=dark&hide_border=true&border_radius=20&locale=pt_BR&timezone=-4&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat&card_width=450&card_height=175&background=23%2C00526E%2C00573C&dates=FFFFFF&sideNums=FFC200&sideLabels=FFC200" alt="GitHub Streak" /></a>
 <div align="center">
     <!-- Sequência de contribuições -->
     <!-- Linguagens mais utilizadas -->
