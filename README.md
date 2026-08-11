@@ -68,9 +68,7 @@
 <!-- ========================= -->
 <div align="center">
     <!-- Sequência de contribuições -->
-    <a href="https://github.com/Enzo-Felippo">
-        <img height="145em" src="https://streak-stats.demolab.com?user=Enzo-Felippo&theme=dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=500&card_height=200"/>
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Enzo-Felippo&theme=dark&hide_border=true&border_radius=20&locale=pt_BR&timezone=-4&short_numbers=true&exclude_days=Sun%2CSat&card_width=500&card_height=200&background=23%2C00526E%2C00573C&dates=FFFFFF&sideNums=FFC200&sideLabels=FFC200" alt="GitHub Streak" /></a>
     <!-- Linguagens mais utilizadas -->
     <img height="145em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Enzo-Felippo&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
     <!-- Estatísticas gerais -->
